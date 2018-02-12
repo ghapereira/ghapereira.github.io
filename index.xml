@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>notas de ghapereira</title>
+    <title>ghapereira core</title>
     <link>https://ghapereira.github.io/</link>
-    <description>Recent content on notas de ghapereira</description>
+    <description>Recent content on ghapereira core</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt-br</language>
     <lastBuildDate>Sat, 10 Feb 2018 11:42:41 +0000</lastBuildDate>
@@ -17,7 +17,8 @@
       <pubDate>Sat, 10 Feb 2018 11:42:41 +0000</pubDate>
       
       <guid>https://ghapereira.github.io/posts/preparando-cold-brew/</guid>
-      <description></description>
+      <description>Esta é a minha receita pessoal de cold brew coffee, ou café por infusão a frio, em português. Existem várias receitas disponíveis na internet, provavelmente muito melhores, mas este é o meu jeito. Esta receita me foi passada pelo grande Eduardo Barbosa, que além de preparar um ótimo cold brew é um arquiteto de software razoável.
+Por que cold brew? O café por infusão a frio tem algumas características positivas.</description>
     </item>
     
   </channel>
